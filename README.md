@@ -1,8 +1,8 @@
 # macOS Release Notes
 
 ## Catalina
-- [10.15.1 release](macOS-Release-Notes#macos-catalina-10151-release-notes) | [update](macOS-Release-Notes#macos-catalina-10151-update-notes)
-- [10.15.0 release](macOS-Release-Notes#macos-catalina-1015-release-notes)
+- [10.15.1 release](#macos-catalina-10151-release-notes) | [update](#macos-catalina-10151-update-notes)
+- [10.15.0 release](#macos-catalina-1015-release-notes)
 
 &nbsp;
 
